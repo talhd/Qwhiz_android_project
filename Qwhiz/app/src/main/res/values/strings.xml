@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Qwhiz</string>
+    <string name="start_Game_btn">Play</string>
+    <string name="score">Correct answers : </string>
+    <string name="time">Time Played : </string>
+    <string name="category">Category : </string>
+    <string name="open_nav_bar" translatable="false">navigation Drawer Open</string>
+    <string name="close_nav_bar" translatable="false">navigation Drawer close</string>
+    <string name="submit">Enter</string>
+    <string name="enter_name">Enter name</string>
+    <string name="note_your_name_will_be_your_user_name">NOTE: your name will be your user name</string>
+    <string name="end_game_btn">Game records</string>
+</resources>

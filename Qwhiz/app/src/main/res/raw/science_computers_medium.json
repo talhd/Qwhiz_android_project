@@ -1,0 +1,350 @@
+ [
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Whistler was the codename of this Microsoft Operating System.",
+			"correct_answer": "Windows XP",
+			"incorrect_answers": [
+				"Windows 2000",
+				"Windows 7",
+				"Windows 95"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
+			"correct_answer": "Year",
+			"incorrect_answers": [
+				"Four Years",
+				"Two Years",
+				"Eight Years"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was the programming language \"C#\" released?",
+			"correct_answer": "2000",
+			"incorrect_answers": [
+				"1998",
+				"1999",
+				"2001"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "On which computer hardware device is the BIOS chip located?",
+			"correct_answer": "Motherboard",
+			"incorrect_answers": [
+				"Hard Disk Drive",
+				"Central Processing Unit",
+				"Graphics Processing Unit"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+			"correct_answer": "Inkscape",
+			"incorrect_answers": [
+				"Paint.NET",
+				"GIMP",
+				"Adobe Photoshop"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+			"correct_answer": "Taiwan",
+			"incorrect_answers": [
+				"United States",
+				"Germany",
+				"China (People's Republic of)"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What did the name of the Tor Anonymity Network orignially stand for?",
+			"correct_answer": "The Onion Router",
+			"incorrect_answers": [
+				"The Only Router",
+				"The Orange Router",
+				"The Ominous Router"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+			"correct_answer": "Clipper Chip",
+			"incorrect_answers": [
+				"Enigma Machine",
+				"Skipjack",
+				"Nautilus"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "On which day did the World Wide Web go online?",
+			"correct_answer": "December 20, 1990",
+			"incorrect_answers": [
+				"December 17, 1996",
+				"November 12, 1990",
+				"November 24, 1995"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the acronym CDN stand for in terms of networking?",
+			"correct_answer": "Content Delivery Network",
+			"incorrect_answers": [
+				"Content Distribution Network",
+				"Computational Data Network",
+				"Compressed Data Network"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many cores does the Intel i7-6950X have?",
+			"correct_answer": "10",
+			"incorrect_answers": [
+				"12",
+				"8",
+				"4"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of these is not an official development name for a Ubuntu release?",
+			"correct_answer": "Mystic Mansion",
+			"incorrect_answers": [
+				"Trusty Tahr",
+				"Utopic Unicorn",
+				"Wily Werewolf"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the server hosting industry IaaS stands for...",
+			"correct_answer": "Infrastructure as a Service",
+			"incorrect_answers": [
+				"Internet as a Service",
+				"Internet and a Server",
+				"Infrastructure as a Server"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+			"correct_answer": "JavaScript",
+			"incorrect_answers": [
+				"C#",
+				"Python",
+				"PHP"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+			"correct_answer": "center",
+			"incorrect_answers": [
+				"static",
+				"absolute",
+				"relative"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these programming languages is a low-level language?",
+			"correct_answer": "Assembly",
+			"incorrect_answers": [
+				"Python",
+				"C#",
+				"Pascal"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In computing terms, typically what does CLI stand for?",
+			"correct_answer": "Command Line Interface",
+			"incorrect_answers": [
+				"Common Language Input",
+				"Control Line Interface",
+				"Common Language Interface"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+			"correct_answer": "FM-7",
+			"incorrect_answers": [
+				"PC-9801",
+				"Xmillennium ",
+				"MSX"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": ".at is the top-level domain for what country?",
+			"correct_answer": "Austria",
+			"incorrect_answers": [
+				"Argentina",
+				"Australia",
+				"Angola"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is known as \"the brain\" of the Computer?",
+			"correct_answer": "Central Processing Unit",
+			"incorrect_answers": [
+				"Motherboard",
+				"Graphics Processing Unit",
+				"Keyboard"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the term GPU stand for?",
+			"correct_answer": "Graphics Processing Unit",
+			"incorrect_answers": [
+				"Gaming Processor Unit",
+				"Graphite Producing Unit",
+				"Graphical Proprietary Unit"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these people was NOT a founder of Apple Inc?",
+			"correct_answer": "Jonathan Ive",
+			"incorrect_answers": [
+				"Steve Jobs",
+				"Ronald Wayne",
+				"Steve Wozniak"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When did the online streaming service \"Mixer\" launch?",
+			"correct_answer": "2016",
+			"incorrect_answers": [
+				"2013",
+				"2009",
+				"2011"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Laserjet and inkjet printers are both examples of what type of printer?",
+			"correct_answer": "Non-impact printer",
+			"incorrect_answers": [
+				"Impact printer",
+				"Daisywheel printer",
+				"Dot matrix printer"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In programming, what do you call functions with the same name but different implementations?",
+			"correct_answer": "Overloading",
+			"incorrect_answers": [
+				"Overriding",
+				"Abstracting",
+				"Inheriting"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many bytes are in a single Kibibyte?",
+			"correct_answer": "1024",
+			"incorrect_answers": [
+				"2400",
+				"1000",
+				"1240"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+			"correct_answer": "Midnight, January 1, 1970",
+			"incorrect_answers": [
+				"Midnight, July 4, 1976",
+				"Midnight on the creator of Unix's birthday",
+				"Midnight, July 4, 1980"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many bits make up the significand portion of a single precision floating point number?",
+			"correct_answer": "23",
+			"incorrect_answers": [
+				"8",
+				"53",
+				"15"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the 'S' in the RSA encryption algorithm stand for?",
+			"correct_answer": "Shamir",
+			"incorrect_answers": [
+				"Secure",
+				"Schottky",
+				"Stable"
+			]
+		}
+	]
